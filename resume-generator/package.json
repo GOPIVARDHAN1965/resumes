@@ -1,0 +1,9 @@
+{
+  "name": "resume-generator",
+  "version": "1.0.0",
+  "description": "Resume generator with Node.js docx generation",
+  "main": "resume_template.js",
+  "dependencies": {
+    "docx": "^8.2.0"
+  }
+}
